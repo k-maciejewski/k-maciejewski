@@ -10,6 +10,8 @@
 
 :computer: Proponent of clean(ing) data and reproducible scripts
 
+Check out my pinned repo's for some personal projects or projects from university.
+</br> Visit https://k-maciejewski.github.io for more
 
 <!--
 **k-maciejewski/k-maciejewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
